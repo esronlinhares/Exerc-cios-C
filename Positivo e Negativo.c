@@ -8,10 +8,10 @@ int main() {
   scanf("%d", &x);
 
   if (x >= 0) {
-      printf("O número é positivo");
+    printf("O número é positivo");
   }
   else {
-      printf("O número é negativo");
+    printf("O número é negativo");
   }
 
   return 0;
