@@ -8,13 +8,13 @@ int main() {
   scanf("%c", &sexo);
 
   if (sexo == 'f' || sexo == 'F') {
-      printf("Feminino");
+    printf("Feminino");
   }
   else if(sexo == 'm' || sexo == 'M') {
-      printf("Masculino");
+    printf("Masculino");
   }
   else {
-      printf("Sexo Inválido");
+    printf("Sexo Inválido");
   }
 
   return 0;
