@@ -9,7 +9,7 @@ int main() {
     printf("Escolha um slot de 0 A 11: ");
     scanf("%d",&y);
     
-    soma=(lista[x]+lista[y]);
+    soma = (lista[x] + lista[y]);
     
     printf("A soma dos valores é: %d", soma);
 
