@@ -5,9 +5,9 @@ int main() {
     int x, y, soma;
 
     printf("Escolha um slot de 0 A 11: ");
-    scanf("%d",&x);
+    scanf("%d", &x);
     printf("Escolha um slot de 0 A 11: ");
-    scanf("%d",&y);
+    scanf("%d", &y);
     
     soma = (lista[x] + lista[y]);
     
