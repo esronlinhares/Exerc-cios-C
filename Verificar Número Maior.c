@@ -10,10 +10,10 @@ int main() {
   scanf("%d", &n2);
 
   if (n1 > n2) {
-      printf("O primeiro número é o maior");
+    printf("O primeiro número é o maior");
   }
   else {
-      printf("O segundo número é  maior");
+    printf("O segundo número é  maior");
   }
 
   return 0;
